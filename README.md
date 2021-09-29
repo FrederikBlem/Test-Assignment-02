@@ -17,7 +17,7 @@ happened. Can you identify a test that would have prevented it?
 ### 2.1 String Utility
 
 ### 2.2 Bowling Game Kata
-[Bowling Game Kata Slides](butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt)
+Bowling Game Kata Slides: <a href="http://butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt">link</a>
 - Couldn't open in browser or read when downloaded at 10:45 29-09-2021 CEST.
 
 ## 3 Investigation of Tools
