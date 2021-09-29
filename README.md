@@ -18,6 +18,7 @@ happened. Can you identify a test that would have prevented it?
 
 ### 2.2 Bowling Game Kata
 [Bowling Game Kata Slides](butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt)
+- Couldn't open in browser or read when downloaded at 10:45 29-09-2021 CEST.
 
 ## 3 Investigation of Tools
 
