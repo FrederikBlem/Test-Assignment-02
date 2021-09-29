@@ -6,7 +6,14 @@
 
 ### 1.1 Computer Mouse
 Identify the types of testing you would perform on a computer mouse, to make sure 
-that it is of the highest quality. 
+that it is of the highest quality.
+
+Identify factors/criteria used to determine "highest quality" and test them. For example:
+* __Hand support.__ <br>__End user tests__ at different lengths of time.
+* __Part longevity.__ <br>The equivalent of __unit tests__.
+* __Response time.__ <br>__Both unit test equivalents and integration tests__.
+* __Number of buttons__ (and programmability?). <br>__Both unit test equivalents and integration tests__.
+* __Customizability.__ <br>__Both unit test equivalents and integration tests__ (because a customizable width or LED lights sometimes need to work with software for example.)
 
 ### 1.2 Catastrophic Failure
 Find a story where a software system defect had a bad outcome. Describe what 
