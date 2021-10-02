@@ -27,6 +27,8 @@ happened. Can you identify a test that would have prevented it?
 ## 2 Two Katas
 
 ### 2.1 String Utility
+[StringUtility tests.](https://github.com/FrederikBlem/Test-Assignment-02/blob/main/TestAssignment02/src/test/java/UtilityForStrings/StringUtilityTest.java)<br>
+[StringUtility class.](https://github.com/FrederikBlem/Test-Assignment-02/blob/main/TestAssignment02/src/main/java/UtilityForStrings/StringUtility.java)
 
 ### 2.2 Bowling Game Kata
 Bowling Game Kata Slides: <a href="http://butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt">link</a>
