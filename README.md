@@ -17,7 +17,12 @@ Identify factors/criteria used to determine "highest quality" and test them. For
 
 ### 1.2 Catastrophic Failure
 Find a story where a software system defect had a bad outcome. Describe what 
-happened. Can you identify a test that would have prevented it? 
+happened. Can you identify a test that would have prevented it?
+
+[Ariane-5.](https://youtu.be/AGI371ht1N8?t=622)
+<br>A memory allocation failure caused a rocket to explode. [Another short article on it.](https://www-users.cse.umn.edu/~arnold/disasters/ariane.html)
+<br>A simulated integration test or possibly a simulated system test could have caught this error before launch.
+<br>The simulated integration test would relay the true capability of this faster version of the rocket and cause the failure in the testing stage rather than at launch.
 
 ## 2 Two Katas
 
