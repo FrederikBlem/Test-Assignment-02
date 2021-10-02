@@ -31,8 +31,9 @@ happened. Can you identify a test that would have prevented it?
 [StringUtility class.](https://github.com/FrederikBlem/Test-Assignment-02/blob/main/TestAssignment02/src/main/java/UtilityForStrings/StringUtility.java)
 
 ### 2.2 Bowling Game Kata
-Bowling Game Kata Slides: <a href="http://butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt">link</a>
-- Couldn't open in browser or read when downloaded at 10:45 29-09-2021 CEST.
+Bowling Game Kata Slides: <a href="http://butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt">link</a> or [here](https://github.com/FrederikBlem/Test-Assignment-02/blob/main/Bowling%20Game%20Kata.ppt).<br>
+[BowlingGameKata Tests.](https://github.com/FrederikBlem/Test-Assignment-02/blob/main/TestAssignment02/src/test/java/BowlingGameKata/BowlingGameTest.java)
+[BowlingGameKata Game class.](https://github.com/FrederikBlem/Test-Assignment-02/blob/main/TestAssignment02/src/main/java/BowlingGameKata/Game.java)
 
 ## 3 Investigation of Tools
 
