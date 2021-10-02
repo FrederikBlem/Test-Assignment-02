@@ -10,7 +10,7 @@ that it is of the highest quality.
 
 Identify factors/criteria used to determine "highest quality" and test them. For example:
 * __Hand support.__ <br>__End user tests__ at different lengths of time.
-* __Part longevity.__ <br>The equivalent of __unit tests__.
+* __Part longevity/durability.__ <br>The equivalent of __unit tests and stress tests__.
 * __Response time.__ <br>__Both unit test equivalents and integration tests__.
 * __Number of buttons__ (and programmability?). <br>__Both unit test equivalents and integration tests__.
 * __Customizability.__ <br>__Both unit test equivalents and integration tests__ (because a customizable width or LED lights sometimes need to work with software for example.)
