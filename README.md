@@ -32,7 +32,7 @@ happened. Can you identify a test that would have prevented it?
 
 ### 2.2 Bowling Game Kata
 Bowling Game Kata Slides: <a href="http://butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt">link</a> or [here](https://github.com/FrederikBlem/Test-Assignment-02/blob/main/Bowling%20Game%20Kata.ppt).<br>
-[BowlingGameKata Tests.](https://github.com/FrederikBlem/Test-Assignment-02/blob/main/TestAssignment02/src/test/java/BowlingGameKata/BowlingGameTest.java)
+[BowlingGameKata Tests.](https://github.com/FrederikBlem/Test-Assignment-02/blob/main/TestAssignment02/src/test/java/BowlingGameKata/BowlingGameTest.java)<br>
 [BowlingGameKata Game class.](https://github.com/FrederikBlem/Test-Assignment-02/blob/main/TestAssignment02/src/main/java/BowlingGameKata/Game.java)
 
 ## 3 Investigation of Tools
