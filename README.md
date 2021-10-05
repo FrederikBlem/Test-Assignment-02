@@ -59,6 +59,14 @@ Bowling Game Kata Slides: <a href="http://butunclebob.com/files/downloads/Bowlin
 Investigate mocking frameworks for your preferred language. Choose at least two 
 frameworks, and answer the questions. (One could be Mockito, which we saw in class.)
 
-#### Mocking Framework 1
+I chose __Mockito__ and __EasyMock__.
 
-#### Mocking Framework 2
+#### What are their similarities?
+They are both annotation based. Their purpose is to help the developer/test mock parts of software to test in isolation.
+
+#### What are their differences?
+Refer to [this article's table](https://www.javatpoint.com/mockito-vs-easymock).
+The main differences to me is how Mockito supports spies and how they are different from full mocks as well as outlining how the method verifying mock calls is always called after a so-called "replay(mock)" method.
+
+#### Which one would you prefer, if any, and why?
+Since they seem fairly similar, but Mockito seems capable of more, I would choose that.
