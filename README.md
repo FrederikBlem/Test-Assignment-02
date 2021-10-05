@@ -38,14 +38,22 @@ Bowling Game Kata Slides: <a href="http://butunclebob.com/files/downloads/Bowlin
 ## 3 Investigation of Tools
 
 ### 3.1 JUnit5
-* @Tag 
-* @Disabled 
-* @RepeatedTest 
-* @BeforeEach, @AfterEach 
-* @BeforeAll, @AfterAll 
-* @DisplayName 
-* @Nested 
-* assumeFalse, assumeTrue
+* __@Tag__
+<br>Tagging lets the developer/tester filter tests with a distinct name. This makes it possible to sort by type of test.
+* __@Disabled__ 
+<br>Disabled lets the developer/tester disable a test without deleting it. This is useful when the test might become relevant again in the future.
+* __@RepeatedTest__
+<br>Lets the developer/tester run a test multiple times.
+* __@BeforeEach, @AfterEach__ 
+<br>These two are used to setup some preparatory work required for each test individually and then performing something after each test. For example creating an object to test on or using global variables, that must be cleaned up again for use by the next test.
+* __@BeforeAll, @AfterAll__
+<br>Much like the above two, these differ by preparing the setup once and performing the final work once.
+* __@DisplayName__ 
+<br>This allows the developer/tester to give each test a custom name.
+* __@Nested__ 
+<br>This allows the developer/tester to group a number of tests under a parent. Basically another way of sorting related tests together.
+* __assumeFalse, assumeTrue__
+<br>These are ways to state that something is assumed to be either false or true.
 
 ### 3.2 Mocking Frameworks
 Investigate mocking frameworks for your preferred language. Choose at least two 
