@@ -65,8 +65,11 @@ I chose __Mockito__ and __EasyMock__.
 They are both annotation based. Their purpose is to help the developer/test mock parts of software to test in isolation.
 
 #### What are their differences?
-Refer to [this article's table](https://www.javatpoint.com/mockito-vs-easymock).
-The main differences to me is how Mockito supports spies and how they are different from full mocks as well as outlining how the method verifying mock calls is always called after a so-called "replay(mock)" method.
+Refer to [this article](https://www.javatpoint.com/mockito-vs-easymock).
+The most important differences to me are:
+* how Mockito supports spies and how they are different from full mocks. 
+* how the method verifying mock calls is always called after a so-called "replay(mock)" method for EasyMock.
+* that EasyMock can't mock final and private methods.
 
 #### Which one would you prefer, if any, and why?
 Since they seem fairly similar, but Mockito seems capable of more, I would choose that.
